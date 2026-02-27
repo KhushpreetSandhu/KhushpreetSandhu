@@ -1,12 +1,12 @@
 ## Hi there, I'm Khush👋
 
--🔭 Currently working on: Assignment Projects
+🔭 Currently working on: Assignment Projects
 
--🌱 I’m currently learning: MySQL, SCSS and WordPress
+🌱 I’m currently learning: MySQL, SCSS and WordPress
 
--💼 Student at NAIT | Open to opportunities
+💼 Student at NAIT | Open to opportunities
 
--📫 Reach me: khpreetkr@gmail.com
+📫 Reach me: khpreetkr@gmail.com
 
 <!--
 **KhushpreetSandhu/KhushpreetSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
