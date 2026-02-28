@@ -12,7 +12,7 @@ I enjoy turning clean designs into functional interfaces and continuously improv
 Currently, I am expanding my knowledge in SCSS, WordPress and MySQL.
 
 ## 💻 My Portfolio
-[khushsandhu.com/my-portfolio/](http://khushsandhu.com/my-portfolio/)
+[khushsandhu.com](https://khushsandhu.com/)
 
 ## 🛠️ Tech Stack
 ### Frontend
