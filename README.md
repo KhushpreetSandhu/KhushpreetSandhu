@@ -1,12 +1,48 @@
-## Hi there, I'm Khush👋
+# Hey there! I'm Khush👋
 
-🔭 Currently working on: Assignment Projects
+🎓 Web Design & Development Student at NAIT
 
-🌱 I’m currently learning: MySQL, SCSS and WordPress
+💻 Aspiring Full Stack Developer
 
-💼 Student at NAIT | Open to opportunities
+📍 Based in Edmonton, Canada
 
-📫 Reach me: khpreetkr@gmail.com
+##🚀 About Me
+I'm a Web Design & Development student at NAIT focused on building responsive, accessible, and user-friendly web applications.
+I enjoy turning clean designs into functional interfaces and continuously improving my frontend and backend development skills.
+Currently, I am expanding my knowledge in SCSS, WordPress and MySQL.
+
+##🛠️ Tech Stack
+###Frontend
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+ 
+###Backend / Database
+- MySQL (learning)
+- PHP (learning)
+- WordPress (learning)
+  
+###Tools
+- Git & GitHub
+- VS Code
+- Figma
+  
+##📚 Currently Learning
+- Responsive & mobile-first design principles
+- WordPress theme customization
+
+##🎯 Career Goal
+Seeking a Frontend Developer or Web Development Internship where I can contribute to real-world projects, strengthen my technical skills, and grow within a collaborative team environment.
+
+<!--📌 Featured Projects
+🔹 Project Name – Short description of what it does and technologies used.
+🔹 Project Name – Short description of what it does and technologies used.
+🔹 Project Name – Short description of what it does and technologies used.
+-->
+##📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/khushpreet-kaur-525618347/
+Email: khpreetkr@gmail.com
 
 <!--
 **KhushpreetSandhu/KhushpreetSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
