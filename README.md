@@ -11,6 +11,9 @@ I'm a Web Design & Development student at NAIT focused on building responsive, a
 I enjoy turning clean designs into functional interfaces and continuously improving my frontend and backend development skills.
 Currently, I am expanding my knowledge in SCSS, WordPress and MySQL.
 
+## 💻 My Portfolio
+* khushsandhu.com/my-portfolio/
+
 ## 🛠️ Tech Stack
 ### Frontend
 - HTML5
