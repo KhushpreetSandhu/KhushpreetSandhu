@@ -41,8 +41,8 @@ Seeking a Frontend Developer or Web Development Internship where I can contribut
 🔹 Project Name – Short description of what it does and technologies used.
 -->
 ## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/khushpreet-kaur-525618347/
-Email: khpreetkr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/khushpreet-kaur-525618347/
+- Email: khpreetkr@gmail.com
 
 <!--
 **KhushpreetSandhu/KhushpreetSandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
